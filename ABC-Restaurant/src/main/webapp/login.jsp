@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Login</h1>
+        <h1 style="background-color:#c5ae89">Login</h1>
     </header>
     <main>
         <form action="loginServlet" method="post">

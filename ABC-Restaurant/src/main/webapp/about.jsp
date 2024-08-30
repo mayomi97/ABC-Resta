@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>About Us</h1>
+        <h1 style="background-color:#c5ae89">About Us</h1>
     </header>
     <main>
         <p>Learn more about our restaurant's history and mission.</p>
