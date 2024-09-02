@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Reservation</h1>
+        <h1 style="background-color:#c5ae89">Reservation</h1>
     </header>
     <main>
         <form action="reservationServlet" method="post">

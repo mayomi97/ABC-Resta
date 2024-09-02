@@ -1,8 +1,5 @@
 package com.restaurant.controller;
-
-
 import com.restaurant.service.ReservationService;
-
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

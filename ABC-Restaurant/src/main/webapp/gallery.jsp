@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Gallery</h1>
+        <h1 style="background-color:#c5ae89">Gallery</h1>
     </header>
     <main>
         <p>Check out some of our featured dishes and restaurant interior photos.</p>
@@ -15,16 +15,20 @@
          <div class="gallery-grid">
             <!-- Gallery Items -->
             <div class="gallery-item">
-                <img src="images/food1.jpg" alt="Food 1">
+                <img src="images/food1.jpg"  width="400" 
+     height="500" alt="Food 1">
             </div>
             <div class="gallery-item">
-                <img src="images/food2.jpg" alt="Food 2">
+                <img src="images/food2.jpg"  width="400" 
+     height="500" style="float:left;"alt="Food 2">
             </div>
             <div class="gallery-item">
-                <img src="images/food3.jpg" alt="Food 3">
+                <img src="images/food3.jpg"  width="400" 
+     height="500"style="float:left; alt="Food 3">
             </div>
             <div class="gallery-item">
-                <img src="images/food4.jpg" alt="Food 4">
+                <img src="images/food4.jpg"  width="400" 
+     height="500"style="float:left;alt="Food 4">
             </div>
             <!-- Add more images as needed -->
         </div>

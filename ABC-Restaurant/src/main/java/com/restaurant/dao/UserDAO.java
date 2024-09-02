@@ -1,7 +1,4 @@
 package com.restaurant.dao;
-
-
-
 import com.restaurant.model.User;
 import java.sql.Connection;
 import java.sql.PreparedStatement;

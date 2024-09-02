@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>Contact Us</h1>
+        <h1 style="background-color:#c5ae89">Contact Us</h1>
     </header>
     <main>
         <p>Get in touch with us through the following methods:</p>

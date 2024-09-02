@@ -46,6 +46,12 @@
   	<description></description>
   	<servlet-class>com.restaurant.controller.OrderServlet</servlet-class>
   </servlet>
+  
+  <servlet>
+    <servlet-name>RegisterServlet</servlet-name>
+    <servlet-class>com.restaurant.controller.RegisterServlet</servlet-class>
+</servlet>
+
   <servlet-mapping>
   	<servlet-name>UserServlet</servlet-name>
   	<url-pattern>/UserServlet</url-pattern>
@@ -74,4 +80,9 @@
   	<servlet-name>OrderServlet</servlet-name>
   	<url-pattern>/OrderServlet</url-pattern>
   </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>RegisterServlet</servlet-name>
+    <url-pattern>/RegisterServlet</url-pattern>
+</servlet-mapping>
 </web-app>
